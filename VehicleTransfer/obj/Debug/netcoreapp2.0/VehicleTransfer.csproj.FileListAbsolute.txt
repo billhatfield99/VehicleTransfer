@@ -1,0 +1,11 @@
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\bin\Debug\netcoreapp2.0\VehicleTransfer.deps.json
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\bin\Debug\netcoreapp2.0\VehicleTransfer.runtimeconfig.json
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\bin\Debug\netcoreapp2.0\VehicleTransfer.runtimeconfig.dev.json
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\bin\Debug\netcoreapp2.0\VehicleTransfer.dll
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\bin\Debug\netcoreapp2.0\VehicleTransfer.pdb
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.csproj.CoreCompileInputs.cache
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.AssemblyInfoInputs.cache
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.AssemblyInfo.cs
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.dll
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.pdb
+c:\users\bill\source\repos\VehicleTransfer\VehicleTransfer\obj\Debug\netcoreapp2.0\VehicleTransfer.csprojResolveAssemblyReference.cache
